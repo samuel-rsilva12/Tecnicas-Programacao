@@ -1,0 +1,36 @@
+{
+  "name": "tecnicas-programacao",
+  "version": "1.0.0",
+  "description": "projeto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuel-rsilva12/Tecnicas-Programacao.git"
+  },
+  "keywords": [
+    "aula",
+    "node",
+    "npm"
+  ],
+  "author": "Samuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuel-rsilva12/Tecnicas-Programacao/issues"
+  },
+  "homepage": "https://github.com/samuel-rsilva12/Tecnicas-Programacao#readme"
+}
+
+
+
+
+
+
+
+
+
+
+
+
